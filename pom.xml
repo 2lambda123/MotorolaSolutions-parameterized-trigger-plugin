@@ -26,7 +26,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>subversion</artifactId>
-      <version>1281.vc8837f91a_07a_</version>
+      <version>1283.vfc8b_92d49a_06</version>
       <optional>true</optional>
       <exclusions>
         <exclusion>
